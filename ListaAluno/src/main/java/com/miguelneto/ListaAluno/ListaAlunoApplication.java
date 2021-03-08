@@ -13,5 +13,7 @@ public class ListaAlunoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ListaAlunoApplication.class, args);
 	}
+	
+	//teste git 
 
 }
