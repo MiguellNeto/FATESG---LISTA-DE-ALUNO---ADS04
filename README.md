@@ -5,7 +5,7 @@ SISTEMA DE DESENVOLVIMENTO WEB
 
 ###   FACULDADE SENAI FATESG
  <h4 align="center">
-   Análise e Desenvolvimento de Sistemas - Turma 2019/2
+   Análise e Desenvolvimento de Sistemas - Turma 2019
 </h4>
 <p align="center">
   <a href="https://gitlab.com/miguelneto.artes">
